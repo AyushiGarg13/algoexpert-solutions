@@ -31,13 +31,15 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 
 ### Problems & Soltuions
 
-| Problem | Difficulty Level | Category | Solutions |
-|---------|:----------------:|----------|-----------|
-|Two Number Sum|![Easy][E]|Arrays|[Link](/Easy/Two%20Number%20Sum)|
-|Validate Subsequence|![Easy][E]|Arrays|[Link](/Easy/Validate%20Subsequence)|
-|Sorted Squared Array|![Easy][E]|Arrays|[Link](/Easy/Sorted%20Squared%20Array)|
-|Tournament Winner|![Easy][E]|Arrays|[Link](/Easy/Tournament%20Winner)|
-|Non-Constructible Change|![Easy][E]|Arrays|[Link](/Easy/Non-Constructible%20Change)|
+|S.No| Problem | Difficulty Level | Category | Solutions |
+|----|---------|:----------------:|----------|-----------|
+|**1.**|Two Number Sum|![Easy][E]|Arrays|[Link](/Easy/Two%20Number%20Sum)|
+|**2.**|Validate Subsequence|![Easy][E]|Arrays|[Link](/Easy/Validate%20Subsequence)|
+|**3.**|Sorted Squared Array|![Easy][E]|Arrays|[Link](/Easy/Sorted%20Squared%20Array)|
+|**4.**|Tournament Winner|![Easy][E]|Arrays|[Link](/Easy/Tournament%20Winner)|
+|**5.**|Non-Constructible Change|![Easy][E]|Arrays|[Link](/Easy/Non-Constructible%20Change)|
+|**6.**|Three Number Sum|![Medium][M]|Arrays|[Link](/Medium/Three%20Number%20Sum)|
+|**7.**|Three Number Sum|![Medium][M]|Arrays|[Link](/Medium/Smallest%20Difference)|
 
 
 [E]: https://img.shields.io/badge/--brightgreen
