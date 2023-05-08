@@ -1,0 +1,4 @@
+Time = O(n)
+Space = O(k)
+n = no. of competitions
+k = no. of teams
