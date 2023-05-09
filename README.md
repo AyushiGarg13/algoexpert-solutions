@@ -61,6 +61,7 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**26.**|Waterfall Streams|![VHard][V]|Arrays|[Link](/Very%20Hard/Waterfall%20Streams)|
 |**27.**|Minimum Area Rectangle|![VHard][V]|Arrays|[Link](/Very%20Hard/Minimum%20Area%20Rectangle)|
 |**28.**|Line Through Points|![VHard][V]|Arrays|[Link](/Very%20Hard/Line%20Through%20Points)|
+
 |**29.**|Find Closest Value In BST|![Easy][E]|Binary Search Trees|[Link](/Easy/Find%20Closest%20Value%20In%20BST)|
 |**30.**|BST Construction|![Medium][M]|Binary Search Trees|[Link](/Medium/BST%20Construction)|
 |**31.**|Validate BST|![Medium][M]|Binary Search Trees|[Link](/Medium/Validate%20BST)|
@@ -71,6 +72,7 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**36.**|Same BSTs|![Hard][H]|Binary Search Trees|[Link](/Hard/Same%20BSTs)|
 |**37.**|Validate Three Nodes|![Hard][H]|Binary Search Trees|[Link](/Hard/Validate%20Three%20Nodes)|
 |**38.**|Right Smaller Than|![VHard][V]|Binary Search Trees|[Link](/Very%20Hard/Right%20Smaller%20Than)|
+
 |**39.**|Branch Sums|![Easy][E]|Binary Trees|[Link](/Easy/Branch%20Sums)|
 |**40.**|Node Depths|![Easy][E]|Binary Trees|[Link](/Easy/Node%20Depths)|
 |**41.**|Evaluate Expression Tree|![Easy][E]|Binary Trees|[Link](/Easy/Evaluate%20Expression%20Tree)|
@@ -88,6 +90,7 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**53.**|Right Sibling Tree|![VHard][V]|Binary Trees|[Link](/Very%20Hard/Right%20Sibling%20Tree)|
 |**54.**|All Kinds Of Node Depths|![VHard][V]|Binary Trees|[Link](/Very%20Hard/All%20Kinds%20Of%20Node%20Depths)|
 |**55.**|Compare Leaf Traversal|![VHard][V]|Binary Trees|[Link](/Very%20Hard/Compare%20Leaf%20Traversal)|
+
 |**56.**|Max Subset Sum No Adjacent|![Medium][M]|Dynamic Programming|[Link](/Medium/Max%20Subset%20Sum%20No%20Adjacent)|
 |**57.**|Number Of Ways To Make Change|![Medium][M]|Dynamic Programming|[Link](/Medium/Number%20Of%20Ways%20To%20Make%20Change)|
 |**58.**|Min Number Of Coins For Change|![Medium][M]|Dynamic Programming|[Link](/Medium/Min%20Number%20Of%20Coins%20For%20Change)|
@@ -108,6 +111,7 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**73.**|Longest Increasing Subsequence|![VHard][V]|Dynamic Programming|[Link](/Very%20Hard/Longest%20Increasing%20Subsequence)|
 |**74.**|Longest String Chain|![VHard][V]|Dynamic Programming|[Link](/Very%20Hard/Longest%20String%20Chain)|
 |**75.**|Square of Zeroes|![VHard][V]|Dynamic Programming|[Link](/Very%20Hard/Square%20of%20Zeroes)|
+
 |**76.**|Kadane's Algorithm|![Medium][M]|Famous Algorithms|[Link](/Medium/Kadane's%20Algorithm)|
 |**77.**|Stable internships|![Medium][M]|Famous Algorithms|[Link](/Medium/Stable%20internships)|
 |**78.**|Union Find|![Medium][M]|Famous Algorithms|[Link](/Medium/Union%20Find)|
@@ -116,6 +120,7 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**81.**|Kruskal's Algorithm|![Hard][H]|Famous Algorithms|[Link](/Hard/Kruskal's%20Algorithm)|
 |**82.**|Knuth—Morris—Pratt Algorithm|![VHard][V]|Famous Algorithms|[Link](/Very%20Hard/Knuth—Morris—Pratt%20Algorithm)|
 |**83.**|A* Algorithm|![VHard][V]|Famous Algorithms|[Link](/Very%20Hard/A*%20Algorithm)|
+
 |**84.**|Depth-first Search|![Easy][E]|Graphs|[Link](/Easy/Depth-first%20Search)|
 |**85.**|Single Cycle Check|![Medium][M]|Graphs|[Link](/Medium/Single%20Cycle%20Check)|
 |**86.**|Breadth-first Search|![Medium][M]|Graphs|[Link](/Medium/Breadth-first%20Search)|
@@ -130,16 +135,19 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**95.**|Detect Arbitrage|![VHard][V]|Graphs|[Link](/Very%20Hard/Detect%20Arbitrage)|
 |**96.**|Two-Edge-Connected Graph|![VHard][V]|Graphs|[Link](/Very%20Hard/Two-Edge-Connected%20Graph)|
 |**97.**|Airport Connections|![VHard][V]|Graphs|[Link](/Very%20Hard/Airport%20Connections)|
+
 |**98.**|Minimum Waiting Time|![Easy][E]|Greedy Algorithms|[Link](/Easy/Minimum%20Waiting%20Time)|
 |**99.**|Class Photos|![Easy][E]|Greedy Algorithms|[Link](/Easy/Class%20Photos)|
 |**100.**|Tandem Bicycle|![Easy][E]|Greedy Algorithms|[Link](/Easy/Tandem%20Bicycle)|
 |**101.**|Task Assignment|![Medium][M]|Greedy Algorithms|[Link](/Medium/Task%20Assignment)|
 |**102.**|Valid Starting City|![Medium][M]|Greedy Algorithms|[Link](/Medium/Valid%20Starting%20City)|
+
 |**103.**|Min Heap Construction|![Medium][M]|Heaps|[Link](/Medium/Min%20Heap%20Construction)|
 |**104.**|Continuous Median|![Hard][H]|Heaps|[Link](/Hard/Continuous%20Median)|
 |**105.**|Sort K-Sorted Array|![Hard][H]|Heaps|[Link](/Hard/Sort%20K-Sorted%20Array)|
 |**106.**|Laptop Rentals|![Hard][H]|Heaps|[Link](/Hard/Laptop%20Rentals)|
 |**107.**|Merge Sorted Arrays|![VHard][V]|Heaps|[Link](/Very%20Hard/Merge%20Sorted%20Arrays)|
+
 |**108.**|Remove Duplicates From Linked List|![Easy][E]|Linked Lists|[Link](/Easy/Remove%20Duplicates%20From%20Linked%20List)|
 |**109.**|Middle Node|![Easy][E]|Linked Lists|[Link](/Easy/Middle%20Node)|
 |**110.**|Linked List Construction|![Medium][M]|Linked Lists|[Link](/Medium/Linked%20List%20Construction)|
@@ -155,6 +163,7 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**120.**|Linked List Palindrome|![VHard][V]|Linked Lists|[Link](/Very%20Hard/Linked%20List%20Palindrome)|
 |**121.**|Zip Linked List|![VHard][V]|Linked Lists|[Link](/Very%20Hard/Zip%20Linked%20List)|
 |**122.**|Node Swap|![VHard][V]|Linked Lists|[Link](/Very%20Hard/Node%20Swap)|
+
 |**123.**|Nth Fibonacci|![Easy][E]|Recursion|[Link](/Easy/Nth%20Fibonacci)|
 |**124.**|Product Sum|![Easy][E]|Recursion|[Link](/Easy/Product%20Sum)|
 |**125.**|Permutations|![Medium][M]|Recursion|[Link](/Medium/Permutations)|
@@ -168,6 +177,7 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**133.**|Ambiguous Measurements|![Hard][H]|Recursion|[Link](/Hard/Ambiguous%20Measurements)|
 |**134.**|Number Of Binary Tree Topologies|![VHard][V]|Recursion|[Link](/Very%20Hard/Number%20Of%20Binary%20Tree%20Topologies)|
 |**135.**|Non-Attacking Queens|![VHard][V]|Recursion|[Link](/Very%20Hard/Non-Attacking%20Queens)|
+
 |**136.**|Binary Search|![Easy][E]|Searching|[Link](/Easy/Binary%20Search)|
 |**137.**|Find Three Largest Numbers|![Easy][E]|Searching|[Link](/Easy/Find%20Three%20Largest%20Numbers)|
 |**138.**|Search In Sorted Matrix|![Medium][M]|Searching|[Link](/Medium/Search%20In%20Sorted%20Matrix)|
@@ -175,6 +185,7 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**140.**|Search For Range|![Hard][H]|Searching|[Link](/Hard/Search%20For%20Range)|
 |**141.**|Quickselect|![Hard][H]|Searching|[Link](/Hard/Quickselect)|
 |**142.**|Index Equals Value|![Hard][H]|Searching|[Link](/Hard/Index%20Equals%20Value)|
+
 |**143.**|Bubble Sort|![Easy][E]|Sorting|[Link](/Easy/Bubble%20Sort)|
 |**144.**|Insertion Sort|![Easy][E]|Sorting|[Link](/Easy/Insertion%20Sort)|
 |**145.**|Selection Sort|![Easy][E]|Sorting|[Link](/Easy/Selection%20Sort)|
@@ -184,6 +195,7 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**149.**|Radix Sort|![Hard][H]|Sorting|[Link](/Hard/Radix%20Sort)|
 |**150.**|Merge Sort|![VHard][V]|Sorting|[Link](/Very%20Hard/Merge%20Sort)|
 |**151.**|Count Inversions|![VHard][V]|Sorting|[Link](/Very%20Hard/Count%20Inversions)|
+
 |**152.**|Min Max Stack Construction|![Medium][M]|Stacks|[Link](/Medium/Min%20Max%20Stack%20Construction)|
 |**153.**|Balanced Brackets|![Medium][M]|Stacks|[Link](/Medium/Balanced%20Brackets)|
 |**154.**|Sunset Views|![Medium][M]|Stacks|[Link](/Medium/Sunset%20Views)|
@@ -193,6 +205,7 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**158.**|Reverse Polish Notation|![Medium][M]|Stacks|[Link](/Medium/Reverse%20Polish%20Notation)|
 |**159.**|Shorten Path|![Hard][H]|Stacks|[Link](/Hard/Shorten%20Path)|
 |**160.**|Largest Rectangle Under Skyline|![Hard][H]|Stacks|[Link](/Hard/Largest%20Rectangle%20Under%20Skyline)|
+
 |**161.**|Palindrome Check|![Easy][E]|Strings|[Link](/Easy/Palindrome%20Check)|
 |**162.**|Caesar Cipher Encryptor|![Easy][E]|Strings|[Link](/Easy/Caesar%20Cipher%20Encryptor)|
 |**163.**|Run-Length Encoding|![Easy][E]|Strings|[Link](/Easy/Run-Length%20Encoding)|
@@ -211,6 +224,7 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**176.**|Pattern Matcher|![Hard][H]|Strings|[Link](/Hard/Pattern%20Matcher)|
 |**177.**|Smallest Substring Containing|![VHard][V]|Strings|[Link](/Very%20Hard/Smallest%20Substring%20Containing)|
 |**178.**|Longest Balanced Substring|![VHard][V]|Strings|[Link](/Very%20Hard/Longest%20Balanced%20Substring)|
+
 |**179.**|Suffix Trie Construction|![Medium][M]|Tries|[Link](/Medium/Suffix%20Trie%20Construction)|
 |**180.**|Multi String Search|![Hard][H]|Tries|[Link](/Hard/Multi%20String%20Search)|
 
