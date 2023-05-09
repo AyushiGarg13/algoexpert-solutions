@@ -1,0 +1,10 @@
+Average
+Time = O(n)
+Space = O(h)
+
+Worst
+Time = O(n)
+Space = O(n)
+
+n = no. of nodes in the tree
+h = height of the tree

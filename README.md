@@ -38,8 +38,11 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**3.**|Sorted Squared Array|![Easy][E]|Arrays|[Link](/Easy/Sorted%20Squared%20Array)|
 |**4.**|Tournament Winner|![Easy][E]|Arrays|[Link](/Easy/Tournament%20Winner)|
 |**5.**|Non-Constructible Change|![Easy][E]|Arrays|[Link](/Easy/Non-Constructible%20Change)|
-|**6.**|Three Number Sum|![Medium][M]|Arrays|[Link](/Medium/Three%20Number%20Sum)|
-|**7.**|Three Number Sum|![Medium][M]|Arrays|[Link](/Medium/Smallest%20Difference)|
+|**6.**|Find Closest Value In BST|![Easy][E]|Binary Search Trees|[Link](/Easy/Find%20Closest%20Value%20In%20BST)|
+|**7.**|Branch Sums|![Easy][E]|Binary Trees|[Link](/Easy/Branch%20Sums)|
+|**8.**|Node Depths|![Easy][E]|Binary Trees|[Link](/Easy/Node%20Depths)|
+|**9.**|Three Number Sum|![Medium][M]|Arrays|[Link](/Medium/Three%20Number%20Sum)|
+|**10.**|Smallest Difference|![Medium][M]|Arrays|[Link](/Medium/Smallest%20Difference)|
 
 
 [E]: https://img.shields.io/badge/--brightgreen
