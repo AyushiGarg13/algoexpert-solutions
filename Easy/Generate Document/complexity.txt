@@ -1,0 +1,6 @@
+Time = O(n + m)
+Space = O(c1)
+
+n = length of characters string
+m = length of document string
+c1 = unique characters in characters string

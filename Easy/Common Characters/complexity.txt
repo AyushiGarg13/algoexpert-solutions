@@ -1,0 +1,5 @@
+Time = O(n x m)
+Space = O(m)
+
+n = no. of strings
+m = unique characters in the longest string

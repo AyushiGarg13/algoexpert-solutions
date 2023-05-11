@@ -1,0 +1,5 @@
+Time = O(n*m)
+Space = O(n*m)
+
+n = length of array
+m = length of the longest word
