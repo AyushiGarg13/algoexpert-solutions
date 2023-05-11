@@ -1,0 +1,5 @@
+Time = O(n)
+Space = O(d)
+
+n = no. of elements in array
+d = greatest depth of special arrays in array
