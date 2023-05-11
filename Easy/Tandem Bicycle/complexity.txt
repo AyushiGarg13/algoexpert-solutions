@@ -1,0 +1,4 @@
+Time = O(n log n)
+Space = O(1)
+
+n = no. of red shirt / blue shirt bikers
