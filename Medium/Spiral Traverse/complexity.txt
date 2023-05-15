@@ -1,0 +1,4 @@
+Time = O(nxm)
+Space = O(nxm)
+n = no. of rows
+m = no. of cols
