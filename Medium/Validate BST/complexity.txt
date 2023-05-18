@@ -1,0 +1,5 @@
+Time = O(n)
+Space = O(d)
+
+n = no. of nodes in BST
+d = depth of the BST

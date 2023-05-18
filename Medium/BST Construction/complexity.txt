@@ -2,8 +2,8 @@ Average
 Time = O(log n)
 Space = O(1) {iterative}/ O(log n) {recursive}
 
-Worst
-Time = O(n)
+Worst 
+Time = O(n) 
 Space = O(1) {iterative}/ O(n) {recursive}
 
 n = no. of nodes in the BST
