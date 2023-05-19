@@ -1,0 +1,4 @@
+Time = O(n)
+Space = O(n)
+
+n = no. of nodes in BST

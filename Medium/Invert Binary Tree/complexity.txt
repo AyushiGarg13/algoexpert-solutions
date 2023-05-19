@@ -1,0 +1,5 @@
+Time = O(n)
+Space = O(d)
+
+n = no. of nodes in the tree
+d = depth of tree

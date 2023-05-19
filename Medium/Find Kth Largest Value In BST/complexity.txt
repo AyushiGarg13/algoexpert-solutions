@@ -1,0 +1,5 @@
+Time = O(h+k)
+Space = O(h)
+
+h = height of tree
+k = input value
