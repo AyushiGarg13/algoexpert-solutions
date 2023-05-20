@@ -1,0 +1,5 @@
+Time = O(n)
+Space = O(h) (in worst case O(n)}
+
+h = height of tree
+n = no. of nodes in tree
