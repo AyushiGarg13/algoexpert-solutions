@@ -1,0 +1,5 @@
+Time = O(w * h)
+Space = O(w * h)
+
+w = width of graph
+h = height of graph

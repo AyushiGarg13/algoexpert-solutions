@@ -1,0 +1,5 @@
+Time = O(n * d)
+Space = O(n)
+
+n = amount to find the ways for
+d = denoms given

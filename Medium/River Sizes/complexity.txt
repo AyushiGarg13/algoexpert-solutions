@@ -1,0 +1,6 @@
+Time = O(w * h) 
+Space = O(k)
+
+w = width of matrix
+h = height of matrix
+k = length of longest river, at most it can be (w * h)

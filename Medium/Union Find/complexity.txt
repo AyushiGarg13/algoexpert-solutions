@@ -1,0 +1,13 @@
+createSet()
+Time = O(1)
+Space = O(1)
+
+find()
+Time = O(α(n)) ~ O(1)
+Space = O(α(n)) ~ O(1)
+
+createUnion()
+Time = O(α(n)) ~ O(1)
+Space = O(α(n)) ~ O(1)
+
+n = the total number of values

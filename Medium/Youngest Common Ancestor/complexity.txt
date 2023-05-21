@@ -1,0 +1,3 @@
+Time = O(d)
+Space = O(1)
+d = depth of the below most node in the tree

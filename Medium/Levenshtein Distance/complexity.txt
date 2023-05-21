@@ -1,0 +1,5 @@
+Time = O(n * m)
+Space = O(n * m)
+
+n = length of str1
+m = length of str2
