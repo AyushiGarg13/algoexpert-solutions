@@ -1,0 +1,4 @@
+Time = O(h)
+Space = O(1)
+
+h = height of tree
