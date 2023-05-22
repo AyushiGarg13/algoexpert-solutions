@@ -1,0 +1,25 @@
+buildHeap()
+Time = O(n)
+Space = O(1)
+
+siftDown()
+Time = O(log n)
+Space = O(1)
+
+siftUp()
+Time = O(log n)
+Space = O(1)
+
+peek()
+Time = O(1)
+Space = O(1)
+
+remove()
+Time = O(log n)
+Space = O(1)
+
+insert()
+Time = O(log n)
+Space = O(1)
+
+n = no. of nodes
