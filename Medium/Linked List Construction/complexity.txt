@@ -1,0 +1,34 @@
+setHead()
+Time = O(1)
+Space = O(1)
+
+setTail()
+Time = O(1)
+Space = O(1)
+
+insertBefore()
+Time = O(1)
+Space = O(1)
+
+insertAfter()
+Time = O(1)
+Space = O(1)
+
+insertAtPosition()
+Time = O(p)
+Space = O(1)
+
+removeNodesWithValue()
+Time = O(n)
+Space = O(1)
+
+remove()
+Time = O(1)
+Space = O(1)
+
+containsNodeWithValue()
+Time = O(n)
+Space = O(1)
+
+p = position
+n = no. of nodes
