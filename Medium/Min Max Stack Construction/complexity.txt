@@ -1,0 +1,19 @@
+peek()
+Time = O(1)
+Space = O(1)
+
+pop()
+Time = O(1)
+Space = O(1)
+
+push()
+Time = O(1)
+Space = O(1)
+
+getMin()
+Time = O(1)
+Space = O(1)
+
+getMax()
+Time = O(1)
+Space = O(1)
