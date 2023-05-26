@@ -1,0 +1,10 @@
+Creation of Suffix Trie: populateSuffixTrieFrom()
+Time = O(n^2)
+Space = O(n^2)
+
+Searching if a Suffix is in the suffix trie: contains()
+Time = O(m)
+Space = O(1)
+
+n = length of the input string
+m = length of the suffix string to search for
