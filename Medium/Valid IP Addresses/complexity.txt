@@ -1,0 +1,6 @@
+Time = O(1)
+Space = O(1)
+
+
+** because only 2^32 IP addresses are possible and so is the limit of input string that is between 4-12
+The solution doesn't scale with the input.

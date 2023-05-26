@@ -1,0 +1,4 @@
+Time = O(min(n, m))
+Space = O(1)
+n = length of stringOne
+m = length of stringTwo

@@ -1,0 +1,5 @@
+Time = O(n*l)
+Space = O(c)
+n = no. of words
+l = length of the longest word
+c = no. of unique characters (c <= n * l)
