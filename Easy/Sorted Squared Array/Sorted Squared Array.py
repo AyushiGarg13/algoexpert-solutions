@@ -1,12 +1,13 @@
 def sortedSquaredArray(array):
-    left = 0
-    right = len(array)-1
-    output = []
+    left, right = 0, len(array)-1
+    index = right
+    output = [0] * len(array)
     while(left <= right):
         if array[left]**2 > array[right]**2:
-            output.append(array[left]**2)
+            output[index] = array[left]**2
             left += 1
         else:
-            output.append(array[right]**2)
+            output[index] = array[right]**2
             right -= 1
-    return output[::-1]
+        index -= 1
+    return output
