@@ -1,4 +1,9 @@
 Time = O(n)
-Space = O(n)
+Space = O(n) 
+
+-> Space -> for recursive call stacks, in average case = log n, in worst case = n.
+Plus, space used by output array = number of leaf nodes, which cannot exceed n.
+Also, approximately we can have around (a little less than) n/2 nodes
+at the leaf level. Actual nodes at leaf level = 2^level.
 
 n = no. of nodes in the Binary Tree
