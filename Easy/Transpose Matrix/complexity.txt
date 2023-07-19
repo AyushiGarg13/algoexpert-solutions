@@ -1,0 +1,4 @@
+Time = O(w * h)
+Space = O(w * h)
+w = width of matrix
+h = height of matrix
