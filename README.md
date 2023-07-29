@@ -122,31 +122,33 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**87.**|Knuth—Morris—Pratt Algorithm|:black_large_square:|Famous Algorithms|[Link](/Very Hard/Knuth—Morris—Pratt Algorithm)|
 |**88.**|A* Algorithm|:black_large_square:|Famous Algorithms|[Link](/Very Hard/A* Algorithm)|
 |**89.**|Depth-first Search|:green_square:|Graphs|[Link](/Easy/Depth-first Search)|
-|**85.**|Single Cycle Check|:blue_square:|Graphs|[Link](/Medium/Single Cycle Check)|
-|**86.**|Breadth-first Search|:blue_square:|Graphs|[Link](/Medium/Breadth-first Search)|
-|**87.**|River Sizes|:blue_square:|Graphs|[Link](/Medium/River Sizes)|
-|**88.**|Youngest Common Ancestor|:blue_square:|Graphs|[Link](/Medium/Youngest Common Ancestor)|
-|**89.**|Remove Islands|:blue_square:|Graphs|[Link](/Medium/Remove Islands)|
-|**90.**|Cycle In Graph|:blue_square:|Graphs|[Link](/Medium/Cycle In Graph)|
-|**91.**|Minimum Passes Of Matrix|:blue_square:|Graphs|[Link](/Medium/Minimum Passes Of Matrix)|
-|**92.**|Two-Colorable|:blue_square:|Graphs|[Link](/Medium/Two-Colorable)|
-|**93.**|Boggle Board|:red_square:|Graphs|[Link](/Hard/Boggle Board)|
-|**94.**|Rectangle Mania|:black_large_square:|Graphs|[Link](/Very Hard/Rectangle Mania)|
-|**95.**|Detect Arbitrage|:black_large_square:|Graphs|[Link](/Very Hard/Detect Arbitrage)|
-|**96.**|Two-Edge-Connected Graph|:black_large_square:|Graphs|[Link](/Very Hard/Two-Edge-Connected Graph)|
-|**97.**|Airport Connections|:black_large_square:|Graphs|[Link](/Very Hard/Airport Connections)|
-|**98.**|Minimum Waiting Time|:green_square:|Greedy Algorithms|[Link](/Easy/Minimum Waiting Time)|
-|**99.**|Class Photos|:green_square:|Greedy Algorithms|[Link](/Easy/Class Photos)|
-|**100.**|Tandem Bicycle|:green_square:|Greedy Algorithms|[Link](/Easy/Tandem Bicycle)|
-|**101.**|Task Assignment|:blue_square:|Greedy Algorithms|[Link](/Medium/Task Assignment)|
-|**102.**|Valid Starting City|:blue_square:|Greedy Algorithms|[Link](/Medium/Valid Starting City)|
-|**103.**|Min Heap Construction|:blue_square:|Heaps|[Link](/Medium/Min Heap Construction)|
-|**104.**|Continuous Median|:red_square:|Heaps|[Link](/Hard/Continuous Median)|
-|**105.**|Sort K-Sorted Array|:red_square:|Heaps|[Link](/Hard/Sort K-Sorted Array)|
-|**106.**|Laptop Rentals|:red_square:|Heaps|[Link](/Hard/Laptop Rentals)|
-|**107.**|Merge Sorted Arrays|:black_large_square:|Heaps|[Link](/Very Hard/Merge Sorted Arrays)|
-|**108.**|Remove Duplicates From Linked List|:green_square:|Linked Lists|[Link](/Easy/Remove Duplicates From Linked List)|
-|**109.**|Middle Node|:green_square:|Linked Lists|[Link](/Easy/Middle Node)|
+|**90.**|Single Cycle Check|:blue_square:|Graphs|[Link](/Medium/Single Cycle Check)|
+|**91.**|Breadth-first Search|:blue_square:|Graphs|[Link](/Medium/Breadth-first Search)|
+|**92.**|River Sizes|:blue_square:|Graphs|[Link](/Medium/River Sizes)|
+|**93.**|Youngest Common Ancestor|:blue_square:|Graphs|[Link](/Medium/Youngest Common Ancestor)|
+|**94.**|Remove Islands|:blue_square:|Graphs|[Link](/Medium/Remove Islands)|
+|**95.**|Cycle In Graph|:blue_square:|Graphs|[Link](/Medium/Cycle In Graph)|
+|**96.**|Minimum Passes Of Matrix|:blue_square:|Graphs|[Link](/Medium/Minimum Passes Of Matrix)|
+|**97.**|Two-Colorable|:blue_square:|Graphs|[Link](/Medium/Two-Colorable)|
+|**98.**|Boggle Board|:red_square:|Graphs|[Link](/Hard/Boggle Board)|
+|**99.**|Largest Island|:red_square:|Graphs|[Link](/Hard/Largest Island)|
+|**100.**|Rectangle Mania|:black_large_square:|Graphs|[Link](/Very Hard/Rectangle Mania)|
+|**101.**|Detect Arbitrage|:black_large_square:|Graphs|[Link](/Very Hard/Detect Arbitrage)|
+|**102.**|Two-Edge-Connected Graph|:black_large_square:|Graphs|[Link](/Very Hard/Two-Edge-Connected Graph)|
+|**103.**|Airport Connections|:black_large_square:|Graphs|[Link](/Very Hard/Airport Connections)|
+|**104.**|Minimum Waiting Time|:green_square:|Greedy Algorithms|[Link](/Easy/Minimum Waiting Time)|
+|**105.**|Class Photos|:green_square:|Greedy Algorithms|[Link](/Easy/Class Photos)|
+|**106.**|Tandem Bicycle|:green_square:|Greedy Algorithms|[Link](/Easy/Tandem Bicycle)|
+|**107.**|Optimal Freelancing|:green_square:|Greedy Algorithms|[Link](/Easy/Optimal Freelancing)|
+|**108.**|Task Assignment|:blue_square:|Greedy Algorithms|[Link](/Medium/Task Assignment)|
+|**109.**|Valid Starting City|:blue_square:|Greedy Algorithms|[Link](/Medium/Valid Starting City)|
+|**110.**|Min Heap Construction|:blue_square:|Heaps|[Link](/Medium/Min Heap Construction)|
+|**111.**|Continuous Median|:red_square:|Heaps|[Link](/Hard/Continuous Median)|
+|**112.**|Sort K-Sorted Array|:red_square:|Heaps|[Link](/Hard/Sort K-Sorted Array)|
+|**113.**|Laptop Rentals|:red_square:|Heaps|[Link](/Hard/Laptop Rentals)|
+|**114.**|Merge Sorted Arrays|:black_large_square:|Heaps|[Link](/Very Hard/Merge Sorted Arrays)|
+|**115.**|Remove Duplicates From Linked List|:green_square:|Linked Lists|[Link](/Easy/Remove Duplicates From Linked List)|
+|**119.**|Middle Node|:green_square:|Linked Lists|[Link](/Easy/Middle Node)|
 |**110.**|Linked List Construction|:blue_square:|Linked Lists|[Link](/Medium/Linked List Construction)|
 |**111.**|Remove Kth Node From End|:blue_square:|Linked Lists|[Link](/Medium/Remove Kth Node From End)|
 |**112.**|Sum of Linked Lists|:blue_square:|Linked Lists|[Link](/Medium/Sum of Linked Lists)|
