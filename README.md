@@ -76,51 +76,52 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**41.**|Repair BST|:red_square:|Binary Search Trees|[Link](/Hard/Repair BST)|
 |**42.**|Right Smaller Than|:black_large_square:|Binary Search Trees|[Link](/Very Hard/Right Smaller Than)|
 |**43.**|Branch Sums|:green_square:|Binary Trees|[Link](/Easy/Branch Sums)|
-|**40.**|Node Depths|:green_square:|Binary Trees|[Link](/Easy/Node Depths)|
-|**41.**|Evaluate Expression Tree|:green_square:|Binary Trees|[Link](/Easy/Evaluate Expression Tree)|
-|**42.**|Invert Binary Tree|:blue_square:|Binary Trees|[Link](/Medium/Invert Binary Tree)|
-|**43.**|Binary Tree Diameter|:blue_square:|Binary Trees|[Link](/Medium/Binary Tree Diameter)|
-|**44.**|Find Successor|:blue_square:|Binary Trees|[Link](/Medium/Find Successor)|
-|**45.**|Height Balanced Binary Tree|:blue_square:|Binary Trees|[Link](/Medium/Height Balanced Binary Tree)|
-|**46.**|Merge Binary Trees|:blue_square:|Binary Trees|[Link](/Medium/Merge Binary Trees)|
-|**47.**|Symmetrical Tree|:blue_square:|Binary Trees|[Link](/Medium/Symmetrical Tree)|
-|**48.**|Split Binary Tree|:blue_square:|Binary Trees|[Link](/Medium/Split Binary Tree)|
-|**49.**|Max Path Sum In Binary Tree|:red_square:|Binary Trees|[Link](/Hard/Max Path Sum In Binary Tree)|
-|**50.**|Find Nodes Distance K|:red_square:|Binary Trees|[Link](/Hard/Find Nodes Distance K)|
-|**51.**|Iterative In-order Traversal|:black_large_square:|Binary Trees|[Link](/Very Hard/Iterative In-order Traversal)|
-|**52.**|Flatten Binary Tree|:black_large_square:|Binary Trees|[Link](/Very Hard/Flatten Binary Tree)|
-|**53.**|Right Sibling Tree|:black_large_square:|Binary Trees|[Link](/Very Hard/Right Sibling Tree)|
-|**54.**|All Kinds Of Node Depths|:black_large_square:|Binary Trees|[Link](/Very Hard/All Kinds Of Node Depths)|
-|**55.**|Compare Leaf Traversal|:black_large_square:|Binary Trees|[Link](/Very Hard/Compare Leaf Traversal)|
-|**56.**|Max Subset Sum No Adjacent|:blue_square:|Dynamic Programming|[Link](/Medium/Max Subset Sum No Adjacent)|
-|**57.**|Number Of Ways To Make Change|:blue_square:|Dynamic Programming|[Link](/Medium/Number Of Ways To Make Change)|
-|**58.**|Min Number Of Coins For Change|:blue_square:|Dynamic Programming|[Link](/Medium/Min Number Of Coins For Change)|
-|**59.**|Levenshtein Distance|:blue_square:|Dynamic Programming|[Link](/Medium/Levenshtein Distance)|
-|**60.**|Number Of Ways To Traverse Graph|:blue_square:|Dynamic Programming|[Link](/Medium/Number Of Ways To Traverse Graph)|
-|**61.**|Max Sum Increasing Subsequence|:red_square:|Dynamic Programming|[Link](/Hard/Max Sum Increasing Subsequence)|
-|**62.**|Longest Common Subsequence|:red_square:|Dynamic Programming|[Link](/Hard/Longest Common Subsequence)|
-|**63.**|Min Number Of Jumps|:red_square:|Dynamic Programming|[Link](/Hard/Min Number Of Jumps)|
-|**64.**|Water Area|:red_square:|Dynamic Programming|[Link](/Hard/Water Area)|
-|**65.**|Knapsack Problem|:red_square:|Dynamic Programming|[Link](/Hard/Knapsack Problem)|
-|**66.**|Disk Stacking|:red_square:|Dynamic Programming|[Link](/Hard/Disk Stacking)|
-|**67.**|Numbers In Pi|:red_square:|Dynamic Programming|[Link](/Hard/Numbers In Pi)|
-|**68.**|Maximum Sum Submatrix|:red_square:|Dynamic Programming|[Link](/Hard/Maximum Sum Submatrix)|
-|**69.**|Maximize Expression|:red_square:|Dynamic Programming|[Link](/Hard/Maximize Expression)|
-|**70.**|Juice Bottling|:red_square:|Dynamic Programming|[Link](/Hard/Juice Bottling)|
-|**71.**|Max Profit With K Transactions|:black_large_square:|Dynamic Programming|[Link](/Very Hard/Max Profit With K Transactions)|
-|**72.**|Palindrome Partitioning Min Cuts|:black_large_square:|Dynamic Programming|[Link](/Very Hard/Palindrome Partitioning Min Cuts)|
-|**73.**|Longest Increasing Subsequence|:black_large_square:|Dynamic Programming|[Link](/Very Hard/Longest Increasing Subsequence)|
-|**74.**|Longest String Chain|:black_large_square:|Dynamic Programming|[Link](/Very Hard/Longest String Chain)|
-|**75.**|Square of Zeroes|:black_large_square:|Dynamic Programming|[Link](/Very Hard/Square of Zeroes)|
-|**76.**|Kadane's Algorithm|:blue_square:|Famous Algorithms|[Link](/Medium/Kadane's Algorithm)|
-|**77.**|Stable internships|:blue_square:|Famous Algorithms|[Link](/Medium/Stable internships)|
-|**78.**|Union Find|:blue_square:|Famous Algorithms|[Link](/Medium/Union Find)|
-|**79.**|Dijkstra's Algorithm|:red_square:|Famous Algorithms|[Link](/Hard/Dijkstra's Algorithm)|
-|**80.**|Topological Sort|:red_square:|Famous Algorithms|[Link](/Hard/Topological Sort)|
-|**81.**|Kruskal's Algorithm|:red_square:|Famous Algorithms|[Link](/Hard/Kruskal's Algorithm)|
-|**82.**|Knuth—Morris—Pratt Algorithm|:black_large_square:|Famous Algorithms|[Link](/Very Hard/Knuth—Morris—Pratt Algorithm)|
-|**83.**|A* Algorithm|:black_large_square:|Famous Algorithms|[Link](/Very Hard/A* Algorithm)|
-|**84.**|Depth-first Search|:green_square:|Graphs|[Link](/Easy/Depth-first Search)|
+|**44.**|Node Depths|:green_square:|Binary Trees|[Link](/Easy/Node Depths)|
+|**45.**|Evaluate Expression Tree|:green_square:|Binary Trees|[Link](/Easy/Evaluate Expression Tree)|
+|**46.**|Invert Binary Tree|:blue_square:|Binary Trees|[Link](/Medium/Invert Binary Tree)|
+|**47.**|Binary Tree Diameter|:blue_square:|Binary Trees|[Link](/Medium/Binary Tree Diameter)|
+|**48.**|Find Successor|:blue_square:|Binary Trees|[Link](/Medium/Find Successor)|
+|**49.**|Height Balanced Binary Tree|:blue_square:|Binary Trees|[Link](/Medium/Height Balanced Binary Tree)|
+|**50.**|Merge Binary Trees|:blue_square:|Binary Trees|[Link](/Medium/Merge Binary Trees)|
+|**51.**|Symmetrical Tree|:blue_square:|Binary Trees|[Link](/Medium/Symmetrical Tree)|
+|**52.**|Split Binary Tree|:blue_square:|Binary Trees|[Link](/Medium/Split Binary Tree)|
+|**53.**|Max Path Sum In Binary Tree|:red_square:|Binary Trees|[Link](/Hard/Max Path Sum In Binary Tree)|
+|**54.**|Find Nodes Distance K|:red_square:|Binary Trees|[Link](/Hard/Find Nodes Distance K)|
+|**55.**|Iterative In-order Traversal|:black_large_square:|Binary Trees|[Link](/Very Hard/Iterative In-order Traversal)|
+|**56.**|Flatten Binary Tree|:black_large_square:|Binary Trees|[Link](/Very Hard/Flatten Binary Tree)|
+|**57.**|Right Sibling Tree|:black_large_square:|Binary Trees|[Link](/Very Hard/Right Sibling Tree)|
+|**58.**|All Kinds Of Node Depths|:black_large_square:|Binary Trees|[Link](/Very Hard/All Kinds Of Node Depths)|
+|**59.**|Compare Leaf Traversal|:black_large_square:|Binary Trees|[Link](/Very Hard/Compare Leaf Traversal)|
+|**60.**|Max Subset Sum No Adjacent|:blue_square:|Dynamic Programming|[Link](/Medium/Max Subset Sum No Adjacent)|
+|**61.**|Number Of Ways To Make Change|:blue_square:|Dynamic Programming|[Link](/Medium/Number Of Ways To Make Change)|
+|**62.**|Min Number Of Coins For Change|:blue_square:|Dynamic Programming|[Link](/Medium/Min Number Of Coins For Change)|
+|**63.**|Levenshtein Distance|:blue_square:|Dynamic Programming|[Link](/Medium/Levenshtein Distance)|
+|**64.**|Number Of Ways To Traverse Graph|:blue_square:|Dynamic Programming|[Link](/Medium/Number Of Ways To Traverse Graph)|
+|**65.**|Max Sum Increasing Subsequence|:red_square:|Dynamic Programming|[Link](/Hard/Max Sum Increasing Subsequence)|
+|**66.**|Longest Common Subsequence|:red_square:|Dynamic Programming|[Link](/Hard/Longest Common Subsequence)|
+|**67.**|Min Number Of Jumps|:red_square:|Dynamic Programming|[Link](/Hard/Min Number Of Jumps)|
+|**68.**|Water Area|:red_square:|Dynamic Programming|[Link](/Hard/Water Area)|
+|**69.**|Knapsack Problem|:red_square:|Dynamic Programming|[Link](/Hard/Knapsack Problem)|
+|**70.**|Disk Stacking|:red_square:|Dynamic Programming|[Link](/Hard/Disk Stacking)|
+|**71.**|Numbers In Pi|:red_square:|Dynamic Programming|[Link](/Hard/Numbers In Pi)|
+|**72.**|Maximum Sum Submatrix|:red_square:|Dynamic Programming|[Link](/Hard/Maximum Sum Submatrix)|
+|**73.**|Maximize Expression|:red_square:|Dynamic Programming|[Link](/Hard/Maximize Expression)|
+|**74.**|Dice Throws|:red_square:|Dynamic Programming|[Link](/Hard/Dice Throws)|
+|**75.**|Juice Bottling|:red_square:|Dynamic Programming|[Link](/Hard/Juice Bottling)|
+|**76.**|Max Profit With K Transactions|:black_large_square:|Dynamic Programming|[Link](/Very Hard/Max Profit With K Transactions)|
+|**77.**|Palindrome Partitioning Min Cuts|:black_large_square:|Dynamic Programming|[Link](/Very Hard/Palindrome Partitioning Min Cuts)|
+|**78.**|Longest Increasing Subsequence|:black_large_square:|Dynamic Programming|[Link](/Very Hard/Longest Increasing Subsequence)|
+|**79.**|Longest String Chain|:black_large_square:|Dynamic Programming|[Link](/Very Hard/Longest String Chain)|
+|**80.**|Square of Zeroes|:black_large_square:|Dynamic Programming|[Link](/Very Hard/Square of Zeroes)|
+|**81.**|Kadane's Algorithm|:blue_square:|Famous Algorithms|[Link](/Medium/Kadane's Algorithm)|
+|**82.**|Stable internships|:blue_square:|Famous Algorithms|[Link](/Medium/Stable internships)|
+|**83.**|Union Find|:blue_square:|Famous Algorithms|[Link](/Medium/Union Find)|
+|**84.**|Dijkstra's Algorithm|:red_square:|Famous Algorithms|[Link](/Hard/Dijkstra's Algorithm)|
+|**85.**|Topological Sort|:red_square:|Famous Algorithms|[Link](/Hard/Topological Sort)|
+|**86.**|Kruskal's Algorithm|:red_square:|Famous Algorithms|[Link](/Hard/Kruskal's Algorithm)|
+|**87.**|Knuth—Morris—Pratt Algorithm|:black_large_square:|Famous Algorithms|[Link](/Very Hard/Knuth—Morris—Pratt Algorithm)|
+|**88.**|A* Algorithm|:black_large_square:|Famous Algorithms|[Link](/Very Hard/A* Algorithm)|
+|**89.**|Depth-first Search|:green_square:|Graphs|[Link](/Easy/Depth-first Search)|
 |**85.**|Single Cycle Check|:blue_square:|Graphs|[Link](/Medium/Single Cycle Check)|
 |**86.**|Breadth-first Search|:blue_square:|Graphs|[Link](/Medium/Breadth-first Search)|
 |**87.**|River Sizes|:blue_square:|Graphs|[Link](/Medium/River Sizes)|
