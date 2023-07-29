@@ -38,29 +38,32 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**3.**|Sorted Squared Array|:green_square:|Arrays|[Link](/Easy/Sorted%20Squared%20Array)|
 |**4.**|Tournament Winner|:green_square:|Arrays|[Link](/Easy/Tournament%20Winner)|
 |**5.**|Non-Constructible Change|:green_square:|Arrays|[Link](/Easy/Non-Constructible%20Change)|
-|**6.**|Three Number Sum|:blue_square:|Arrays|[Link](/Medium/Three%20Number%20Sum)|
-|**7.**|Smallest Difference|:blue_square:|Arrays|[Link](/Medium/Smallest%20Difference)|
-|**8.**|Move Element To End|:blue_square:|Arrays|[Link](/Medium/Move%20Element%20To%20End)|
-|**9.**|Monotonic Array|:blue_square:|Arrays|[Link](/Medium/Monotonic%20Array)|
-|**10.**|Spiral Traverse|:blue_square:|Arrays|[Link](/Medium/Spiral%20Traverse)|
-|**11.**|Longest Peak|:blue_square:|Arrays|[Link](/Medium/Longest%20Peak)|
-|**12.**|Array Of Products|:blue_square:|Arrays|[Link](/Medium/Array%20Of%20Products)|
-|**13.**|First Duplicate Value|:blue_square:|Arrays|[Link](/Medium/First%20Duplicate%20Value)|
-|**14.**|Merge Overlapping Intervals|:blue_square:|Arrays|[Link](/Medium/Merge%20Overlapping%20Intervals)|
-|**15.**|Best Seat|:blue_square:|Arrays|[Link](/Medium/Best%20Seat)|
-|**16.**|Zero Sum Subarray|:blue_square:|Arrays|[Link](/Medium/Zero%20Sum%20Subarray)|
-|**17.**|Missing Numbers|:blue_square:|Arrays|[Link](/Medium/Missing%20Numbers)|
-|**18.**|Four Number Sum|:red_square:|Arrays|[Link](/Hard/Four%20Number%20Sum)|
-|**19.**|Subarray Sort|:red_square:|Arrays|[Link](/Hard/Subarray%20Sort)|
-|**20.**|Largest Range|:red_square:|Arrays|[Link](/Hard/Largest%20Range)|
-|**21.**|Min Rewards|:red_square:|Arrays|[Link](/Hard/Min%20Rewards)|
-|**22.**|Zigzag Traverse|:red_square:|Arrays|[Link](/Hard/Zigzag%20Traverse)|
-|**23.**|Count Squares|:red_square:|Arrays|[Link](/Hard/Count%20Squares)|
-|**24.**|Apartment Hunting|:black_large_square:|Arrays|[Link](/Very%20Hard/Apartment%20Hunting)|
-|**25.**|Calendar Matching|:black_large_square:|Arrays|[Link](/Very%20Hard/Calendar%20Matching)|
-|**26.**|Waterfall Streams|:black_large_square:|Arrays|[Link](/Very%20Hard/Waterfall%20Streams)|
-|**27.**|Minimum Area Rectangle|:black_large_square:|Arrays|[Link](/Very%20Hard/Minimum%20Area%20Rectangle)|
-|**28.**|Line Through Points|:black_large_square:|Arrays|[Link](/Very%20Hard/Line%20Through%20Points)|
+|**6.**|Transpose Matrix|:green_square:|Arrays|[Link](/Easy/Transpose%20Matrix)|
+|**7.**|Three Number Sum|:blue_square:|Arrays|[Link](/Medium/Three%20Number%20Sum)|
+|**8.**|Smallest Difference|:blue_square:|Arrays|[Link](/Medium/Smallest%20Difference)|
+|**9.**|Move Element To End|:blue_square:|Arrays|[Link](/Medium/Move%20Element%20To%20End)|
+|**10.**|Monotonic Array|:blue_square:|Arrays|[Link](/Medium/Monotonic%20Array)|
+|**11.**|Spiral Traverse|:blue_square:|Arrays|[Link](/Medium/Spiral%20Traverse)|
+|**12.**|Longest Peak|:blue_square:|Arrays|[Link](/Medium/Longest%20Peak)|
+|**13.**|Array Of Products|:blue_square:|Arrays|[Link](/Medium/Array%20Of%20Products)|
+|**14.**|First Duplicate Value|:blue_square:|Arrays|[Link](/Medium/First%20Duplicate%20Value)|
+|**15.**|Merge Overlapping Intervals|:blue_square:|Arrays|[Link](/Medium/Merge%20Overlapping%20Intervals)|
+|**16.**|Best Seat|:blue_square:|Arrays|[Link](/Medium/Best%20Seat)|
+|**17.**|Zero Sum Subarray|:blue_square:|Arrays|[Link](/Medium/Zero%20Sum%20Subarray)|
+|**18.**|Missing Numbers|:blue_square:|Arrays|[Link](/Medium/Missing%20Numbers)|
+|**19.**|Majority Element|:blue_square:|Arrays|[Link](/Medium/Majority%20Element)|
+|**20.**|Sweet And Savory|:blue_square:|Arrays|[Link](/Medium/Sweet And Savory)|
+|**21.**|Four Number Sum|:red_square:|Arrays|[Link](/Hard/Four%20Number%20Sum)|
+|**22.**|Subarray Sort|:red_square:|Arrays|[Link](/Hard/Subarray%20Sort)|
+|**23.**|Largest Range|:red_square:|Arrays|[Link](/Hard/Largest%20Range)|
+|**24.**|Min Rewards|:red_square:|Arrays|[Link](/Hard/Min%20Rewards)|
+|**25.**|Zigzag Traverse|:red_square:|Arrays|[Link](/Hard/Zigzag%20Traverse)|
+|**26.**|Count Squares|:red_square:|Arrays|[Link](/Hard/Count%20Squares)|
+|**27.**|Apartment Hunting|:black_large_square:|Arrays|[Link](/Very%20Hard/Apartment%20Hunting)|
+|**28.**|Calendar Matching|:black_large_square:|Arrays|[Link](/Very%20Hard/Calendar%20Matching)|
+|**29.**|Waterfall Streams|:black_large_square:|Arrays|[Link](/Very%20Hard/Waterfall%20Streams)|
+|**30.**|Minimum Area Rectangle|:black_large_square:|Arrays|[Link](/Very%20Hard/Minimum%20Area%20Rectangle)|
+|**31.**|Line Through Points|:black_large_square:|Arrays|[Link](/Very%20Hard/Line%20Through%20Points)|
 |**29.**|Find Closest Value In BST|:green_square:|Binary Search Trees|[Link](/Easy/Find%20Closest%20Value%20In%20BST)|
 |**30.**|BST Construction|:blue_square:|Binary Search Trees|[Link](/Medium/BST%20Construction)|
 |**31.**|Validate BST|:blue_square:|Binary Search Trees|[Link](/Medium/Validate%20BST)|
