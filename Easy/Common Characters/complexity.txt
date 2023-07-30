@@ -3,3 +3,12 @@ Space = O(m)
 
 n = no. of strings
 m = unique characters in the longest string
+
+Solution:
+1. Find the smallest string
+2. The characters in the smallest string are a key reference, at most all of them should be in all the string
+3. Create set for all strings
+4. Loop through the smallest string set
+5. If character of smallest string set in not found in other set, then its not a common char.
+6. Remove it
+7. At the end, whatever is left in the smallest string set is our answer.

@@ -228,8 +228,3 @@ Soltuions to AlgoExpert Problems in C++ and Python with their optimal Space-Time
 |**193.**|Longest Balanced Substring|:black_large_square:|Strings|[Link](/Very Hard/Longest Balanced Substring)|
 |**194.**|Suffix Trie Construction|:blue_square:|Tries|[Link](/Medium/Suffix Trie Construction)|
 |**195.**|Multi String Search|:red_square:|Tries|[Link](/Hard/Multi String Search)|
-
-[E]: https://img.shields.io/badge/--brightgreen
-[M]: https://img.shields.io/badge/--blue
-[H]: https://img.shields.io/badge/--red
-[V]: https://img.shields.io/badge/--black

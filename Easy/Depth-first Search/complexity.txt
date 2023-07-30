@@ -1,5 +1,5 @@
-Time = O(V + E)
-Space = O(V)
+Time = O(V + E), because we traverse all V nodes, and each node may have some children. In total, we know E edges represent all the children.
+Space = O(V), array space = V, also call stacks in worst case may end up to V
 
 V = No. of vertices
 E = No. of edges
