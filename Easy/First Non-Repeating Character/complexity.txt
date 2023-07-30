@@ -1,4 +1,4 @@
 Time = O(n)
-Space = O(1)
+Space = O(1), because problem states that it's only for english lower case letters i.e 26 letters which is constant
 
 n = length of string

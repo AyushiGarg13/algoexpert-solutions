@@ -2,3 +2,11 @@ Time = O(n)
 Space = O(1)
 
 n = length of linked list
+
+Solution:
+
+Here we use 2 pointers instead of one.
+1st pointer, moves 1 step at a time.
+2nd pointer, moves 2 step at a time.
+So by the time 2nd pointer reaches the end of the list,
+1st pointer would be at the middle of the list.
