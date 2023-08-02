@@ -1,3 +1,18 @@
 Time = O(n)
 Space = O(1)
 n = length of input array
+
+Solution:
+
+we are allowed to mutate the array
+AND -> ARRAY CONTAINS VALUES ONLY FROM 1 TO N (no. of elements)
+
+so we can use this information
+we'll map our elements to a certain index i.e elem - 1
+we'll check if the element on that index is -ve
+if not, then we make the elem negative and move to next one
+
+if yes, then we know this must have been visited by same elem already
+and hence that's our first duplicate value
+
+we can do thi only because array consists of 1 TO N

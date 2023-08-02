@@ -1,4 +1,4 @@
-Time = O(h+k)
+Time = O(h+k), because, we don't know where the kth largest value lies. It may lie at the end of the tree. 
 Space = O(h)
 
 h = height of tree
