@@ -2,3 +2,5 @@ Time = O(n)
 Space = O(n)
 
 n = length of string
+
+If a character occurs more than 9 times then it's count should be split accordingly.
