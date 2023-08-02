@@ -1,3 +1,10 @@
 Time = O(n)
 Space = O(n)
 n = length of input array
+
+Solution:
+
+Hash Table (unordered_map/unordered_set) is used to reduce time complexity.
+But space complexity increases.
+If item is encountered in array => x, then targetSum - x = y, should be in the map.
+If y is not found, then x is added in hash table.

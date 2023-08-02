@@ -1,3 +1,10 @@
 Time = O(n)
 Space = O(n)
 n = length of input array
+
+input => array of sorted integers
+ouput => sorted array of the squares of values in input
+
+Solution:
+Need to keep track of smallest and largest absolute values in array.
+Store the bigger square at end index.
