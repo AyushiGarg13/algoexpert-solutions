@@ -1,3 +1,10 @@
 Time = O(n)
 Space = O(1)
 n = length of input array
+
+Peak is a point preceeded by strictly increasing numbers followed by strictly decreasing numbers
+
+In this approach, we are NOT maintaining the direction of the flow as well.
+The other approach was quite complex to implement but a little bit faster than this.
+Time comp for this = O(n+2/3) as we might need to reiterate on the left side.
+This algo finds the peak point and then traverses in both direction to find it's length.

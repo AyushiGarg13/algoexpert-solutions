@@ -3,3 +3,8 @@ Space = O(d)
 
 n = no. of nodes in the tree
 d = depth of tree
+
+Create mirror image of the binary tree
+
+We can use breadth first search here as well, but space = O(n/2) in that case as 
+queue is used to keep track of nodes, and at one point all leaf nodes will be in it which is n/2

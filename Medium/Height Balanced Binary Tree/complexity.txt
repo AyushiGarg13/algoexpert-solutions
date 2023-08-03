@@ -3,3 +3,6 @@ Space = O(h)
 
 n = no. of nodes in the tree
 h = height of the binary tree
+
+A tree is height balanced, if all the nodes in the tree have the
+difference of height between their left child and right child to be at most 1.
