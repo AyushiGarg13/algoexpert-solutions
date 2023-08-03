@@ -3,3 +3,15 @@ Space = O(1)
 
 n = no. of nodes in linked list 1
 m = no. of nodes in linked list 2
+
+Solution:
+
+We can minimizing the extra space as we know that the intersection point 
+onward the length of both the lists would be same.
+So extra nodes must be at beginning only.
+So we find out both the lengths and we iterate (len1 - len2) steps in the longer list.
+After we have reached the same level, we iterate the lists at same time to find the common node.
+
+We can further optimize it -> instead of keeping the counts we move the pointer to head of the 
+different list when we reach the end. So this will ensure them to traverse same length and in 
+second iteration they will merge at their common nodes.

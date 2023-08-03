@@ -10,7 +10,7 @@ vector<vector<int>> mergeOverlappingIntervals(vector<vector<int>> intervals)
     int oi = 0;
     for (int i = 1; i < intervals.size(); i++)
     {
-        if (intervals[i][0] <= output[oi][1])
+        if (intervals[i][0] <= output[oi][1]) // && intervals[i][0] >= output[oi][0]) no need of this equation as array already sorted on the basis of first value.
         {
             auto elem = {output[oi][0], max(output[oi][1], intervals[i][1])};
             output.pop_back();

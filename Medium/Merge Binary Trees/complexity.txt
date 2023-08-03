@@ -1,5 +1,8 @@
 Time = O(n)
 Space = O(h)
 
-n = no. of nodes in the tree
-h = height of the smaller binary tree
+n = no. of nodes in the smaller tree (as we just copy the other tree values if null is found)
+h = height of the smaller binary tree (since we don't need to have recursive call stacks of the other larger tree)
+
+Iterative approach can also be used, but has same time & space complexity.
+That approach uses DFS with stacks to keep track of the nodes in each tree.
