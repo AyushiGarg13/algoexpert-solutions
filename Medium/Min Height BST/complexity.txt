@@ -2,3 +2,8 @@ Time = O(n)
 Space = O(n)
 
 n = no. of nodes in BST
+
+The default insert method takes log n time to insert each node.
+Operation is called on n nodes, hence O(nlogn)
+If we can keep track of the node where to insert the next node, instead of using the given
+function then we can bypass the log n complexity.

@@ -1,5 +1,5 @@
 buildHeap()
-Time = O(n)
+Time = O(n) {at bottom most level, it's O(1) operation. Only at top level it is O(logn)}. By this analysis, total siftDown performed becomes O(1).
 Space = O(1)
 
 siftDown()

@@ -1,5 +1,5 @@
 Time = O(n * d)
 Space = O(n)
 
-n = amount to find the ways for
+n = amount to find the ways for min change
 d = denoms given
